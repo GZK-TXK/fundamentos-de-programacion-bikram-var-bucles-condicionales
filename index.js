@@ -14,3 +14,15 @@ let booleanoMix0,
 let incrementarDesp;
 incrementarDesp = 2;
 
+let resultadoDesp - incrementarDesp++;
+
+let incrementarAntes;
+incrementarAntes = 2;
+let resultadoAntes - ++incrementarAntes;
+
+let constarHasta10_2 = 0;
+for (let i = 0,i < 11; i++) {
+  contarHasta10_2++
+}
+
+let postI = 0;
